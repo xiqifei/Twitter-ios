@@ -24,13 +24,18 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 Login & Logout
-<img src='https://i.imgur.com/9izQ48y.gif' title='Login & Logout' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/9izQ48y.gif' title='Login & Logout' width='' alt='Video Walkthrough' /><br>
 
 
 Stays loggedin
-<img src='https://i.imgur.com/xNWGLr9.gif' title='Stays loggedin' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/xNWGLr9.gif' title='Stays loggedin' width='' alt='Video Walkthrough' /><br>
 
 
 Refresh & Infinite Scroll
-<img src='https://i.imgur.com/cPsHpTN.gif' title='Refresh & Infinite Scroll' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/JZ3SZuh.gif' title='Refresh & Infinite Scroll' width='' alt='Video Walkthrough' /><br>
+
+
 
