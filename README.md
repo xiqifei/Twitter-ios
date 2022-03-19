@@ -1,3 +1,39 @@
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent: 5 hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+
+Compose a tweet
+
+<img src='https://i.imgur.com/SXXV8tc.gif' title='Compose a tweet' width='' alt='Video Walkthrough' /><br>
+
+
+Favorite & Retweet a tweet
+
+<img src='https://i.imgur.com/gjxeExt.gif' title='Favorite & Retweet a tweet' width='' alt='Video Walkthrough' /><br>
+
+
+
 # Twitter - Part I
 
 This is a basic twitter app to read your tweets.
@@ -23,14 +59,19 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+
 Login & Logout
-<img src='https://i.imgur.com/9izQ48y.gif' title='Login & Logout' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/9izQ48y.gif' title='Login & Logout' width='' alt='Video Walkthrough' /><br>
 
 
 Stays loggedin
-<img src='https://i.imgur.com/xNWGLr9.gif' title='Stays loggedin' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/xNWGLr9.gif' title='Stays loggedin' width='' alt='Video Walkthrough' /><br>
 
 
 Refresh & Infinite Scroll
-<img src='https://i.imgur.com/cPsHpTN.gif' title='Refresh & Infinite Scroll' width='' alt='Video Walkthrough' />
+
+<img src='https://i.imgur.com/JZ3SZuh.gif' title='Refresh & Infinite Scroll' width='' alt='Video Walkthrough' /><br>
+
 
